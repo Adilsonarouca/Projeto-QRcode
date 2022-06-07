@@ -28,3 +28,16 @@ button{
     font-family: 'Roboto Serif', serif;
 }
 
+@media (max-width:390px){
+    h1{
+        font-size: 26px; 
+    }
+}
+
+@media (max-width:402px){
+    img{
+        width:340px;
+        height: 340px;
+    
+    }
+}
